@@ -1,0 +1,15 @@
+/Users/kristoferlatt/Desktop/LINQ/LINKQ/LINKQ/bin/Debug/net7.0/LINKQ
+/Users/kristoferlatt/Desktop/LINQ/LINKQ/LINKQ/bin/Debug/net7.0/LINKQ.deps.json
+/Users/kristoferlatt/Desktop/LINQ/LINKQ/LINKQ/bin/Debug/net7.0/LINKQ.runtimeconfig.json
+/Users/kristoferlatt/Desktop/LINQ/LINKQ/LINKQ/bin/Debug/net7.0/LINKQ.dll
+/Users/kristoferlatt/Desktop/LINQ/LINKQ/LINKQ/bin/Debug/net7.0/LINKQ.pdb
+/Users/kristoferlatt/Desktop/LINQ/LINKQ/LINKQ/obj/Debug/net7.0/LINKQ.csproj.AssemblyReference.cache
+/Users/kristoferlatt/Desktop/LINQ/LINKQ/LINKQ/obj/Debug/net7.0/LINKQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristoferlatt/Desktop/LINQ/LINKQ/LINKQ/obj/Debug/net7.0/LINKQ.AssemblyInfoInputs.cache
+/Users/kristoferlatt/Desktop/LINQ/LINKQ/LINKQ/obj/Debug/net7.0/LINKQ.AssemblyInfo.cs
+/Users/kristoferlatt/Desktop/LINQ/LINKQ/LINKQ/obj/Debug/net7.0/LINKQ.csproj.CoreCompileInputs.cache
+/Users/kristoferlatt/Desktop/LINQ/LINKQ/LINKQ/obj/Debug/net7.0/LINKQ.dll
+/Users/kristoferlatt/Desktop/LINQ/LINKQ/LINKQ/obj/Debug/net7.0/refint/LINKQ.dll
+/Users/kristoferlatt/Desktop/LINQ/LINKQ/LINKQ/obj/Debug/net7.0/LINKQ.pdb
+/Users/kristoferlatt/Desktop/LINQ/LINKQ/LINKQ/obj/Debug/net7.0/LINKQ.genruntimeconfig.cache
+/Users/kristoferlatt/Desktop/LINQ/LINKQ/LINKQ/obj/Debug/net7.0/ref/LINKQ.dll
